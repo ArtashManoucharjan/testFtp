@@ -1,0 +1,22 @@
+{
+  "name": "expeditors",
+  "version": "1.0.0",
+  "description": "ftp",
+  "main": "index.js",
+  "scripts": {
+    "test": "testFtp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testFtp"
+  },
+  "keywords": [
+    "ftp"
+  ],
+  "author": "Artash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ssh2-sftp-client": "^5.2.1"
+  }
+}
